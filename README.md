@@ -1,16 +1,19 @@
-## Hi there 👋
+<p align="center">
+  <img src="./banner.png" alt="Ilustração em preto e branco de um personagem encapuzado">
+</p>
 
-<!--
-**Pedro-Galvao/Pedro-Galvao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Pedro Galvão</h1>
 
-Here are some ideas to get you started:
+<p align="center"><strong>Desenvolvedor web · Galvão Sites</strong></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Crio sites para negócios locais e desenvolvo projetos de programação, banco de dados e redes. Curso Técnico em Informática na Etec de Bebedouro e participo do Forma TI 2.0 no Senac Bebedouro.
+
+## Projetos em destaque
+
+| Projeto | O que você vai encontrar |
+| --- | --- |
+| [J.A MotoRacing](https://github.com/Pedro-Galvao/J.A-Site) | Site institucional desenvolvido para a J.A MotoRacing. |
+| [Biblioteca Galvão](https://github.com/Pedro-Galvao/Estudos-Banco-de-Dados) | Banco de dados relacional em MySQL e protótipo desktop em C# Windows Forms. |
+| [Smart City](https://github.com/Pedro-Galvao/Projeto-de-Redes) | Simulação de uma cidade inteligente no Cisco Packet Tracer. |
+
+**Contato profissional** · [@galvao_sites](https://www.instagram.com/galvao_sites/)
